@@ -1,0 +1,29 @@
+{
+  "name": "vim-exit",
+  "version": "0.0.1",
+  "description": "Vim-style exit aliases for the shell. Also tunes readline timing for vi-mode key sequences.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iop098321qwe/vim-exit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/iop098321qwe/vim-exit/issues"
+  },
+  "homepage": "https://github.com/iop098321qwe/vim-exit#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
+    "husky": "^9.1.7"
+  }
+}
